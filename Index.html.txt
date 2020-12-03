@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Bhadra is hacking</title>
+
+<style>
+*{
+margin:0;
+padding:0;
+}
+header{
+height:120px;
+background:#262626;
+padding:0 50 px;
+}
+.hacker{
+width:30%
+float:left;
+color:#fff;
+font-weight:bold;
+text-transform:uppercase;
+line-height:60px;
+font-size:35px;
+font-family:sans-serif;
+}
+nav{
+width:68%;
+float:right;
+}
+nav ul{
+list-style:none;
+float:right;
+}
+nav ul li{
+display: inline-block;
+}
+nav ul li a{
+text-decoration: none;
+color:#fff;
+font-family:sans-serif;
+font-weight:bold;
+margin:0 10px;
+line-height:60px;
+text-transform:uppercase;
+}
+.banner img{
+width:100%;
+height:90vh;
+}
+.content{
+padding:5%;
+}
+.content p{
+font-size:18px;
+line-height:1.7;
+font-family:sans-serif;
+margin-bottom:25px;
+}
+footer{
+background:#000;
+color:#fff;
+padding:15px 50px;
+text-align:center;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+<div class="hacker">Hacker</div>
+
+<nav>
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="#">About</a><li>
+<li><a href="#">my website</a><li>
+</ul>
+</nav>
+</header>
+
+<div class="banner">
+<img src="hacks.jpeg" alt="">
+</div>
+
+<div class="content">
+
+<p>Bhadra has been responsible for hacking more than 823 nonillion devices to sudo them.
+ It means She could have the access to control others chatboxs. This could lead to the firing of business men 
+ and make them look like a 5 year old who has been yeeting his or her's keyboard off the everest.
+ She can also yeet students and make them look official. *WHICH IS A BAD THING IN DIS CLASS*.
+ People have also described that she has hacked into their security system, disabled, and encrypted it 
+ which resulted the security cameras into useless cardboard boxes. 
+ Remember kids, Hackers = memers. BYE GAMERS.(I cant be official anymore 
+ The home, about and my website buttons are fake, get scammed lol).</p>
+
+</div>
+
+<footer>
+<p>BHADRA IS A HACKER</p>
+</footer>
+
+</body>
+
+</html>
